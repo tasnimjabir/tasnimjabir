@@ -200,16 +200,16 @@
 </g>
 
 <!-- YOUR NAME OUTPUT NODE -->
-<circle class="r2" cx="680" cy="240" r="26" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
-<circle cx="680" cy="240" r="17" fill="#EF9F27" opacity=".9"/>
+<circle class="r2" cx="680" cy="240" r="42" fill="none" stroke="#EF9F27" stroke-width="1.5"/>
+<circle cx="680" cy="240" r="40" fill="#EF9F27" opacity=".9"/>
 
 <text x="680" y="236" text-anchor="middle"
-      style="font:600 8px system-ui,sans-serif; fill:#0d0d14;">
+      style="font:600 18px system-ui,sans-serif; fill:#0d0d14;">
   Tasnim
 </text>
 
-<text x="680" y="248" text-anchor="middle"
-      style="font:600 8px system-ui,sans-serif; fill:#0d0d14;">
+<text x="680" y="256" text-anchor="middle"
+      style="font:600 18px system-ui,sans-serif; fill:#0d0d14;">
   Jabir
 </text>
 
