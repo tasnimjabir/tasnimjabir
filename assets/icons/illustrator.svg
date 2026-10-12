@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Adobe Illustrator">
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#330000"/>
+  <g fill="#FF9A00">
+    <path fill-rule="evenodd" d="M13 46 23 17h8l10 29h-7l-2-7H22l-2 7zm11-13h6l-3-10z"/>
+    <path d="M45 26h6v20h-6z"/>
+    <circle cx="48" cy="19" r="3.5"/>
+  </g>
+</svg>

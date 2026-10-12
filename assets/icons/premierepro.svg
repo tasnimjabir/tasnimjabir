@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Adobe Premiere Pro">
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#00005B"/>
+  <g fill="#9999FF">
+    <path fill-rule="evenodd" d="M15 17h12c8 0 12 4 12 11s-4 11-12 11h-5v8h-7zm7 6v10h5c3 0 5-2 5-5s-2-5-5-5z"/>
+    <path d="M42 26h6v3c2-3 4-4 7-3v6c-4-1-7 1-7 5v10h-6z"/>
+  </g>
+</svg>

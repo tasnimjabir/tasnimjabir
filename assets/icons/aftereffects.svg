@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Adobe After Effects">
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#00005B"/>
+  <g fill="#9999FF">
+    <path fill-rule="evenodd" d="m10 47 9-30h8l9 30h-7l-2-7h-8l-2 7zm11-13h4l-2-9z"/>
+    <path fill-rule="evenodd" d="M56 38H42c0 3 2 4 6 4 3 0 5-1 7-2v6c-2 1-5 2-8 2-8 0-12-5-12-12s4-12 11-12c7 0 10 5 10 11zm-14-5h8c0-3-2-4-4-4s-4 1-4 4z"/>
+  </g>
+</svg>

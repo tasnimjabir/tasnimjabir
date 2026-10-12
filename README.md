@@ -1,99 +1,240 @@
-
 <p align="center">
-  <img src="neural-network.svg" width="100%">
+  <img src="neural-network.svg" width="100%" alt="Animated neural network">
 </p>
 
-<h1>Hi, I'am Tasnim Jabir 👋</h1>
-<strong>
-I build intelligent systems that pretend they understand the world better than I do.<br>
-I'm currently learning Computer vision, Gen AI, LLM, Multimodel ai, AI agents.<br>
-I'm also passionate in design, art and graphics. It helps me bring creativity in my works.
-</strong>
+<h1 align="center">Hi, I'am Tasnim Jabir 👋</h1>
 
-
----
-
-## Skills
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br>
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/><br>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</p>
-
-### Deployment & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSL-25A162?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-</p>
-
-### Creative Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spline-0D0D0D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/>
-</p>
-
-etc.
-
-## Connect
+<p align="center"><strong>AI/ML Engineer | Cybersecurity</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tasnimjabir">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="assets/badges/linkedin.svg" height="30" alt="LinkedIn"/>
   </a>
   <a href="https://www.fiverr.com/tasnimjabir360">
-    <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?style=flat-square&logo=fiverr&logoColor=white"/>
+    <img src="assets/badges/fiverr.svg" height="30" alt="Fiverr"/>
   </a>
   <a href="https://www.facebook.com/tasnimjabirfb/">
-    <img src="https://img.shields.io/badge/Facebook-Add-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook"/>
   </a>
   <a href="mailto:tasnimjabircse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/>
   </a>
   <a href="https://tasnimjabir.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-eeee55?style=for-the-badge&logo=google-chrome&logoColor=black" height="30" alt="Website"/>
   </a>
+</p>
+
+<h2 align="center">About Me</h2>
+
+<p align="left">
+<strong>
+🎓 I'm studying at East West University.<br>
+📍 I live in Dhaka, Bangladesh.<br>
+💻 I build AI-powered applications that combine machine learning, reliable backend systems, and thoughtful design.<br>
+🧠 I'm currently learning Computer vision, Gen AI, LLM, Multimodel ai, AI agents.<br>
+🎨 I'm also passionate in design, art and graphics. It helps me bring creativity in my works.
+</strong>
+</p>
+
+---
+
+<h2 align="center">Stacks</h2>
+
+<table align="center" border="1" frame="box" rules="none">
+  <tr>
+    <th align="center" valign="middle">Languages</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"></td>
+        </tr>
+        <tr>
+          <td align="center">C++</td>
+          <td align="center">Java</td>
+          <td align="center">Python</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Databases</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" title="Oracle"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB"></td>
+        </tr>
+        <tr>
+          <td align="center">MySQL</td>
+          <td align="center">Oracle</td>
+          <td align="center">PostgreSQL</td>
+          <td align="center">MongoDB</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">AI / ML</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" title="OpenCV"></td>
+          <td align="center" width="56"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face"></td>
+        </tr>
+        <tr>
+          <td align="center">PyTorch</td>
+          <td align="center">TensorFlow</td>
+          <td align="center">scikit-learn</td>
+          <td align="center">OpenCV</td>
+          <td align="center">Hugging Face</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Frontend</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="48" height="48" alt="React" title="React"></td>
+        </tr>
+        <tr>
+          <td align="center">HTML5</td>
+          <td align="center">CSS3</td>
+          <td align="center">JavaScript</td>
+          <td align="center">React</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Backend</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" width="48" height="48" alt="Django" title="Django"></td>
+          <td align="center" width="56"><img src="https://skillicons.dev/icons?i=flask&amp;theme=light" width="48" height="48" alt="Flask" title="Flask"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI"></td>
+        </tr>
+        <tr>
+          <td align="center">Django</td>
+          <td align="center">Flask</td>
+          <td align="center">PHP</td>
+          <td align="center">FastAPI</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Data Science</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter"></td>
+        </tr>
+        <tr>
+          <td align="center">NumPy</td>
+          <td align="center">Pandas</td>
+          <td align="center">Matplotlib</td>
+          <td align="center">Jupyter</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Deployment &amp; DevOps</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" title="Apache"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"></td>
+        </tr>
+        <tr>
+          <td align="center">Linux</td>
+          <td align="center">Ubuntu</td>
+          <td align="center">Nginx</td>
+          <td align="center">Apache</td>
+          <td align="center">Docker</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Developer Tools</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"></td>
+          <td align="center" width="56"><img src="https://skillicons.dev/icons?i=github&amp;theme=light" width="48" height="48" alt="GitHub" title="GitHub"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"></td>
+        </tr>
+        <tr>
+          <td align="center">Git</td>
+          <td align="center">GitHub</td>
+          <td align="center">VS Code</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Creative Tools</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" title="Blender"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Photoshop" title="Photoshop"></td>
+          <td align="center" width="56"><img src="assets/icons/illustrator.svg" width="48" height="48" alt="Illustrator" title="Illustrator"></td>
+          <td align="center" width="56"><img src="assets/icons/premierepro.svg" width="48" height="48" alt="Premiere Pro" title="Premiere Pro"></td>
+          <td align="center" width="56"><img src="assets/icons/aftereffects.svg" width="48" height="48" alt="After Effects" title="After Effects"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma"></td>
+          <td align="center" width="56"><img src="assets/icons/spline.svg" width="48" height="48" alt="Spline" title="Spline"></td>
+          <td align="center" width="56"><img src="assets/icons/autocad.svg" width="48" height="48" alt="AutoCAD" title="AutoCAD"></td>
+        </tr>
+        <tr>
+          <td align="center">Blender</td>
+          <td align="center">Photoshop</td>
+          <td align="center">Illustrator</td>
+          <td align="center">Premiere Pro</td>
+          <td align="center">After Effects</td>
+          <td align="center">Figma</td>
+          <td align="center">Spline</td>
+          <td align="center">AutoCAD</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasnimjabir&amp;theme=radical" width="90%" alt="Tasnim Jabir's profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasnimjabir&amp;theme=radical" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tasnimjabir&amp;theme=radical&amp;exclude=Jupyter%20Notebook,Hack" width="49%" alt="Repositories per language, excluding Notebook and Hack" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasnimjabir&amp;theme=radical&amp;exclude=Jupyter%20Notebook,Hack" width="49%" alt="Most commit language, excluding Notebook and Hack" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tasnimjabir&amp;theme=radical&amp;utcOffset=6" width="49%" alt="Productive time, UTC+6" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tasnimjabir&amp;theme=radical&amp;hide_border=true" width="65%" alt="GitHub contribution streak" />
 </p>
