@@ -7,21 +7,7 @@
 <p align="center"><strong>AI/ML Engineer | Cybersecurity</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tasnimjabir">
-    <img src="assets/badges/linkedin.svg" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.fiverr.com/tasnimjabir360">
-    <img src="assets/badges/fiverr.svg" height="30" alt="Fiverr"/>
-  </a>
-  <a href="https://www.facebook.com/tasnimjabirfb/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook"/>
-  </a>
-  <a href="mailto:tasnimjabircse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/>
-  </a>
-  <a href="https://tasnimjabir.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-eeee55?style=for-the-badge&logo=google-chrome&logoColor=black" height="30" alt="Website"/>
-  </a>
+  <a href="https://www.linkedin.com/in/tasnimjabir"><img src="assets/badges/linkedin.svg" height="30" alt="LinkedIn"/></a> <a href="https://www.fiverr.com/tasnimjabir360"><img src="assets/badges/fiverr.svg" height="30" alt="Fiverr"/></a> <a href="https://www.facebook.com/tasnimjabirfb/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook"/></a> <a href="mailto:tasnimjabircse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email"/></a> <a href="https://tasnimjabir.com" target="_blank"><img src="https://img.shields.io/badge/Website-eeee55?style=for-the-badge&logo=google-chrome&logoColor=black" height="30" alt="Website"/></a>
 </p>
 
 <h2 align="center">About Me</h2>
