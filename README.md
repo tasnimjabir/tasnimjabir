@@ -35,11 +35,13 @@
           <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++"></td>
           <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java"></td>
           <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"></td>
+          <td align="center" width="56"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust"></td>
         </tr>
         <tr>
           <td align="center">C++</td>
           <td align="center">Java</td>
           <td align="center">Python</td>
+          <td align="center">Rust</td>
         </tr>
       </table>
     </td>
@@ -137,6 +139,36 @@
           <td align="center">Pandas</td>
           <td align="center">Matplotlib</td>
           <td align="center">Jupyter</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Networking</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" title="Wireshark"></td>
+        </tr>
+        <tr>
+          <td align="center">Wireshark</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" valign="middle">Cybersecurity</th>
+    <td align="center">
+      <table align="center">
+        <tr>
+          <td align="center" width="56"><a href="https://github.com/vanhauser-thc/thc-hydra"><img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/hydra-logo.ico" width="48" height="48" alt="Hydra" title="THC Hydra"></a></td>
+          <td align="center" width="56"><img src="assets/icons/sql-injection.svg" width="48" height="48" alt="SQL Injection" title="SQL Injection"></td>
+          <td align="center" width="56"><img src="assets/icons/john-the-ripper.svg" width="48" height="48" alt="John the Ripper" title="John the Ripper"></td>
+        </tr>
+        <tr>
+          <td align="center">Hydra</td>
+          <td align="center">SQL Injection</td>
+          <td align="center">John the Ripper</td>
         </tr>
       </table>
     </td>
